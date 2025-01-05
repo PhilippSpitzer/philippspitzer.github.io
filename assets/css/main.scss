@@ -48,8 +48,9 @@ h1, h2, h3, h4, h5, h6 {
 .page__footer-follow {
     display: none !important;
   }
-//   /* Optional: If you want to adjust the remaining footer content */
-//   .page__footer-copyright {
-//     text-align: center;
-//     margin-top: 1em !important;
-//   }
+  /* Optional: If you want to adjust the remaining footer content */
+  .page__footer-copyright {
+    text-align: center;
+    margin-top: 1em !important;
+    background-color: #6f8eac
+  }
