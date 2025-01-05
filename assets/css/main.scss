@@ -2,8 +2,54 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
-
 @charset "utf-8";
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+/* Colors */
+// $background-color: #aae2f8;  // Even lighter blue
+// $text-color: #2c3e50;        // Darker text for better contrast
+// $link-color: #0066cc;        // Blue links
+/* Fonts - with Google Fonts import */
+$sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;  // Using system fonts for now
+$serif: Georgia, Times, serif;
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+/* Custom overrides with stronger selectors */
+body,
+.page__content,
+.sidebar,
+.author__name,
+.author__bio {
+  font-family: $sans-serif !important;
+}
+.page__content,
+.initial-content,
+html,
+body {
+  background-color: #f5faff !important;
+}
+/* Avatar customization */
+.author__avatar {
+    img {
+      max-width: 220px !important;  // Increase from default
+      border-radius: 50% !important;
+      padding: 0 !important;
+    }
+  }
+.greedy-nav {
+  background: #f5faff !important;
+}
+.page__title,
+h1, h2, h3, h4, h5, h6 {
+  font-family: $sans-serif !important;
+  font-weight: 500 !important;
+}
+/* Hide the follow text in footer */
+.page__footer-follow {
+    display: none !important;
+  }
+//   /* Optional: If you want to adjust the remaining footer content */
+//   .page__footer-copyright {
+//     text-align: center;
+//     margin-top: 1em !important;
+//   }
