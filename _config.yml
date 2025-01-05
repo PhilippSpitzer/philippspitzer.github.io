@@ -123,7 +123,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:spitzer@kit.edu"
     - label: "Goodle Scholar"
-      icon: "fas fa-fw fa-scholar"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Ft_WjhUAAAAJ&hl=de&oi=ao"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
