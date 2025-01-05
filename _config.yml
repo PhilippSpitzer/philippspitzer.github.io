@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Philipp Spitzer"
 description              : "Website of Philipp Spitzer."
-url                      : "https://philippspitzer.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://philippspitzer.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -116,7 +116,7 @@ author:
   name             : "Philipp Spitzer"
   avatar           : "/assets/images/bio-photo.png"
   bio              : "Researcher at the interface of data science and machine learning."
-  location         : "Karlsruhe, Germany"
+  location         : "Karlsruhe (DE)"
   email            :
   links:
     - label: "Email"
