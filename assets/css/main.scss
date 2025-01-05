@@ -39,6 +39,11 @@ body {
 .greedy-nav {
   background: #f5faff !important;
 }
+
+.greedy-nav .visible-links a:before{
+  background: #6f8eac !important;
+}
+
 .page__title,
 h1, h2, h3, h4, h5, h6 {
   font-family: $sans-serif !important;
@@ -50,7 +55,6 @@ h1, h2, h3, h4, h5, h6 {
   }
   /* Optional: If you want to adjust the remaining footer content */
   .page__footer {
-    text-align: center;
     margin-top: 1em !important;
     background-color: #6f8eac
   }
