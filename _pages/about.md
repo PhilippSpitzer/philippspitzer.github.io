@@ -1,10 +1,12 @@
 ---
+layout: page
 title: "About Me"
 permalink: /about/
 layout: single
 author_profile: true
 toc: true
 toc_sticky: true
+
 ---
 I am the Research Lab Lead of the Applied AI in Services Lab at the Karlsruhe Institute of Technology (KIT), where I focus on advancing the collaborative potential of humans and AI in industrial processes. My research emphasizes the development and application of modern data science methods, with a particular interest in how artificial intelligence (AI) can foster knowledge transfer and enable practical, scalable industrial solutions.
 

@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Philipp Spitzer"
+title                    : "Philipp Spiter"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Philipp Spitzer"
 description              : "Website of Philipp Spitzer."
-url                      : "https://philippspitzer.github.io"
+url                      : "https://philippspitzer.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -115,15 +115,15 @@ analytics:
 author:
   name             : "Philipp Spitzer"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "Researcher at the interface of data science and machine learning."
+  bio              : "Researcher at the inferface of Data Science and Machine Learning."
   location         : "Karlsruhe (DE)"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:spitzer@kit.edu"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
+    - label: "Goodle Scholar"
+      icon: "fas fa-fw fa-googlescholar"
       url: "https://scholar.google.com/citations?user=Ft_WjhUAAAAJ&hl=de&oi=ao"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
