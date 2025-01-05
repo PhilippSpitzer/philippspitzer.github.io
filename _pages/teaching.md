@@ -5,31 +5,31 @@ permalink: /teaching/
 author_profile: true
 ---
 <p style="font-size: 14px;">
-##An overview of my teaching activities to date.
+<h2>An overview of my teaching activities to date.</h2>
 </p>
 
-## Lectures
+<h2>Lectures</h2>
 <p style="font-size: 14px;">
-<b>Artificial Intelligence in Service Systems</b>, Karlsruhe Institute of Technology, 2023–now
+<i>Artificial Intelligence in Service Systems</i>, Karlsruhe Institute of Technology, 2023–now
 <br>
-<b>Seminar: Data Science for Industrial Applications</b>, Karlsruhe Institute of Technology, 2022–now
+<i>Seminar: Data Science for Industrial Applications</i>, Karlsruhe Institute of Technology, 2022–now
 </p>
 
-## Course Instructor
+<h2>Course Instructor</h2>
 <p style="font-size: 14px;">
-<b>Artificial Intelligence in Service Systems</b>, Karlsruhe Institute of Technology, 2022–now
+<i>Artificial Intelligence in Service Systems</i>, Karlsruhe Institute of Technology, 2022–now
 <br>
-<b>Artificial Intelligence in Service Systems with Application in Computer Vision</b>, Karlsruhe Institute of Technology, 2022
+<i>Artificial Intelligence in Service Systems with Application in Computer Vision</i>, Karlsruhe Institute of Technology, 2022
 </p>
 
-## Invited Lectures
+<h2>Invited Lectures</h2>
 <p style="font-size: 14px;">
-<b>Applied Artificial Intelligence in Services</b>, University of Bayreuth, 2023–2024
+<i>Applied Artificial Intelligence in Services</i>, University of Bayreuth, 2023–2024
 <br>
-<b>Digital Services: Foundations</b>, Karlsruhe Institute of Technology, 2023
+<i>Digital Services: Foundations</i>, Karlsruhe Institute of Technology, 2023
 </p>
 
-## Teaching Assistant / Tutor
+<h2>Teaching Assistant / Tutor</h2>
 <p style="font-size: 14px;">
-<b>Programming I: Java</b>, Karlsruhe Institute of Technology, 2013–2015; 2017-2018
+<i>Programming I: Java</i>, Karlsruhe Institute of Technology, 2013–2015; 2017-2018
 </p>
