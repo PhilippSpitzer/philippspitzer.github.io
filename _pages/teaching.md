@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 <p style="font-size: 14px;">
-<h2>An overview of my teaching activities to date.</h2>
+<b>An overview of my teaching activities to date.</b>
 </p>
 
 <h2>Lectures</h2>
