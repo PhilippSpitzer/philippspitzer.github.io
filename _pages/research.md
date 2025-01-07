@@ -8,8 +8,6 @@ author_profile: true
 <p style="font-size: 16px;">
 <b>An overview of my academic work to date.</b>
 </p>
-
-
 <h2>Peer-Reviewed Papers</h2>
 
 <p style="font-size: 14px;">
