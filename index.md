@@ -1,5 +1,5 @@
 ---
-title: 'About me'
+title: 'News'
 layout: single
 author_profile: true
 ---
