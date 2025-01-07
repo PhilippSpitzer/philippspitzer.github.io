@@ -14,7 +14,7 @@ author_profile: true
 
 <p style="font-size: 14px;">
 <ul style="font-size: 14px;">
-    <li><b>Spitzer, P.</b>, Celis, S., Martin, D., Kühl, N., & Satzger, G. (2024). <a href="https://dl.acm.org/doi/pdf/10.1145/3670653.3677488" style="text-decoration:none"><b>Looking Through the Deep Glasses: How Large Language Models Enhance Explainability of Deep Learning Models. </b></a>In Proceedings of Mensch und Computer 2024 (pp. 566-570). </li>
+    <li><b>Spitzer, P.</b>, Celis, S., Martin, D., Kühl, N., & Satzger, G. (2024). <a href="https://dl.acm.org/doi/pdf/10.1145/3670653.3677488" style="text-decoration:none"><b>Looking Through the Deep Glasses: How Large Language Models Enhance Explainability of Deep Learning Models. </b></a>In Proceedings of Mensch und Computer 2024 </li>
     <li><b>Spitzer, P.</b>, Goutier, M., Kühl, N., & Satzger, G. (2024). <a href="https://arxiv.org/pdf/2406.01329" style="text-decoration:none"><b>(X)AI as a Teacher: Learning with Explainable Artificial Intelligence.</b></a> In Proceedings of Mensch und Computer 2024 </li>
     <li><b>Spitzer, P.</b>, Kühl, N., Goutier, M., Kaschura, M., & Satzger, G. (2024). <a href="https://arxiv.org/pdf/2406.01329" style="text-decoration:none"><b>Transferring Domain Knowledge with (X) AI-Based Learning Systems.</b></a> In 32nd European Conference on Information Systems (ECIS 2024).</li>
     <li>Holstein, J., <b>Spitzer, P.</b>, Hoell, M., Vössing, M., & Kühl, N. (2024). <a href="https://arxiv.org/pdf/2405.07658" style="text-decoration:none"><b>Understanding Data Understanding: A Framework to Navigate the Intricacies of Data Analytics.</b></a> In 32nd European Conference on Information Systems (ECIS 2024).</li>
