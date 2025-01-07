@@ -7,7 +7,6 @@ author_profile: true
 <p style="font-size: 16px;">
 <b>An overview of my teaching activities to date.</b>
 </p>
-
 <h2>Lectures</h2>
 <p style="font-size: 14px;">
 <i>Artificial Intelligence in Service Systems</i>, Karlsruhe Institute of Technology, 2023–now
