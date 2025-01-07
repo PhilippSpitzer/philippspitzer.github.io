@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-<h2>News</h2>
+<h2>Current Research Opportunities</h2>
 
 <p style="font-size: 14px;">
 <ul style="font-size: 14px;">
