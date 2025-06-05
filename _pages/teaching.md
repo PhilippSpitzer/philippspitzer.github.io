@@ -9,6 +9,8 @@ author_profile: true
 </p>
 <h2>Lectures</h2>
 <p style="font-size: 14px;">
+<i>Artificial Intelligence in Service Systems: Generative AI Applications & Adoption</i>, Karlsruhe Institute of Technology, 2025–now
+<br>
 <i>Artificial Intelligence in Service Systems</i>, Karlsruhe Institute of Technology, 2023–now
 <br>
 <i>Seminar: Data Science for Industrial Applications</i>, Karlsruhe Institute of Technology, 2022–now
