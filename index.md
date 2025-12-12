@@ -10,7 +10,7 @@ author_profile: true
 <ul style="font-size: 14px;">
     <li><b>AutomationXP26: Agentic Automation Experiences</b> <br>
     <div style="text-align: center;">
-    <img src="assets/images/automationxp.jpg" alt="AutomationXP25" style="width: 300px; height: auto;">
+    <img src="assets/images/chi2026.png" alt="AutomationXP26" style="width: 300px; height: auto;">
     </div>
     <br>
     <a href="https://matthiasbaldauf.com/automationxp26/" style="text-decoration:none"><b>Follow this link </b></a><br>
