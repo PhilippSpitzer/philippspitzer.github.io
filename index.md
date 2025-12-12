@@ -8,7 +8,7 @@ author_profile: true
 
 <p style="font-size: 14px;">
 <ul style="font-size: 14px;">
-    <li><b>AutomationXP26: Agentic Automation Experiences</b> <br>
+    <li><b>CHI 2026 Workshop - AutomationXP26: Agentic Automation Experiences</b> <br>
     <div style="text-align: center;">
     <img src="assets/images/chi2026.png" alt="AutomationXP26" style="width: 300px; height: auto;">
     </div>
