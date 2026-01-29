@@ -59,13 +59,19 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #6f8eac
   }
 
-/* TEMP DEBUG: force all images/links to full opacity */
-.page__content a,
-.page__content img,
-.archive__item a,
-.archive__item img,
-.archive__item-teaser,
-.archive__item-teaser img {
+/* Sidebar is faded until hover — force full opacity always */
+.sidebar,
+.sidebar * ,
+.author__avatar,
+.author__content,
+.author__urls {
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+/* In case the theme explicitly changes it on hover */
+.sidebar:hover,
+.sidebar:hover * {
   opacity: 1 !important;
   filter: none !important;
 }
