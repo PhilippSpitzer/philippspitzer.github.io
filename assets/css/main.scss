@@ -59,19 +59,13 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #6f8eac
   }
 
-  /* --- Disable "faded until hover" teaser/card images (Minimal Mistakes) --- */
-.archive__item-teaser img,
-.grid__item .archive__item-teaser img,
-.list__item .archive__item-teaser img,
-.archive__item a img {
-  opacity: 1 !important;
-  filter: none !important;
-}
-
-/* If the fade is applied to the whole card/item, force it too */
-.archive__item,
-.grid__item,
-.list__item {
+/* TEMP DEBUG: force all images/links to full opacity */
+.page__content a,
+.page__content img,
+.archive__item a,
+.archive__item img,
+.archive__item-teaser,
+.archive__item-teaser img {
   opacity: 1 !important;
   filter: none !important;
 }
