@@ -18,5 +18,7 @@ Before my current role, I gained extensive experience in industry through my rol
 <br>
 <br>
 
-I am about to complete my PhD at KIT with a dissertation titled "The Impact of Explainable AI on Human Knowledge in Human-AI Interaction." During this time, I had the opportunity to conduct a research stay at Carnegie Mellon University's Human-Computer Interaction Institute, where I explored the downsides of explainable AI in human-AI collaboration. I also collaborated with various industrial partners, addressing challenges in AI adoption, knowledge transfer, and domain adaptation.
+I completed my PhD at KIT with the dissertation titled "The Impact of Explainable AI on Human Knowledge in Human-AI Interaction." During the phd, I had the opportunity to conduct a research stay at Carnegie Mellon University's Human-Computer Interaction Institute, where I explored the downsides of explainable AI in human-AI collaboration. I also collaborated with various industrial partners, addressing challenges in AI adoption, knowledge transfer, and domain adaptation. At the ACM Transactions on Computer-Human Interaction I serve as Distinguished Reviewer.
+
+
 </p>
